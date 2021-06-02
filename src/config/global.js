@@ -285,7 +285,7 @@ export const creditos = {
     },
     {
       nombre: 'Rafael Augusto Mantilla López',
-      cargo: 'Corrección de estilo',
+      cargo: 'Evaluador de diseño web y contenido',
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
