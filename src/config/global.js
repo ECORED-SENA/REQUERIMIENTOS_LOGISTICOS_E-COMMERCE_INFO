@@ -4,10 +4,10 @@ export const global = {
   horas: 48,
   semanas: 4,
   modalidad: 'virtual',
-  requisitosIngrso: [
-    'Solicitud del interesado.',
-    'Cumplir los requisitos exigidos por el centro de formación.',
-  ],
+  //requisitosIngrso: [
+  //'Solicitud del interesado.',
+  //'Cumplir los requisitos exigidos por el centro de formación.',
+  //],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
     '<iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/EYQu9ic_P6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>',
@@ -284,10 +284,10 @@ export const creditos = {
       regional: 'Distrito Capital',
     },
     {
-      nombre: 'Jhana Bustillo',
+      nombre: 'Rafael Augusto Mantilla López',
       cargo: 'Corrección de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander',
     },
   ],
   desarrolloProducto: [
@@ -304,7 +304,7 @@ export const creditos = {
       cargo: 'Diseño web',
     },
     {
-      nombre: ['Por confirmar por parte de Zuly'],
+      nombre: ['Carlos Eduardo Garavito Parada'],
       cargo: 'Producción Audiovisual',
     },
     {
@@ -318,8 +318,8 @@ export const creditos = {
   ],
   gestoresRepositorio: [
     {
-      nombre: 'Pendiente',
-      cargo: ['Milady Tatiana Villamil Castellanos'],
+      nombre: 'Milady Tatiana Villamil Castellanos',
+      cargo: ['Validación y vinculación en plataforma LMS'],
       centro: 'Centro de Comercio y Servicios',
       regional: 'Regional Tolima',
     },
