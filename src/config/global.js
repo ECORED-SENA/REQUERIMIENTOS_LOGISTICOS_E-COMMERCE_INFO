@@ -1,6 +1,6 @@
 export const global = {
   nombrePrograma: 'Apropiación de requerimientos logísticos en el e-commerce',
-  codigo: '8130000',
+  codigo: '08130001',
   horas: 48,
   semanas: 4,
   modalidad: 'virtual',

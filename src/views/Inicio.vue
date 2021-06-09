@@ -50,7 +50,7 @@ section
     .titulo__template--a.mb-4
       span.h6 5. Perfil de<br>egreso
 
-    p.mb-4 El egresado(a) de formación complementaria virtual Apropiación de requerimientos logísticos en el e-commerce estará en capacidad de manejar sistemas de información en comercio electrónico que permitan innovar y mejorar la optimización de los recursos generando mayores oportunidades de ingresos para la empresa.     
+    p.mb-4 El(la) egresado(a) de formación complementaria virtual Apropiación de requerimientos logísticos en el e-commerce estará en capacidad de manejar sistemas de información en comercio electrónico que permitan innovar y mejorar la optimización de los recursos generando mayores oportunidades de ingresos para la empresa.     
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
@@ -59,7 +59,7 @@ section
     p.mb-4 Centrada en la construcción de autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias. 
       br
       br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:   
+      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:   
 
     ul.fa-ul
       li.mb-2 #[span.li--clr.fa-li #[i.fas.fa-angle-right ]] El instructor - tutor
