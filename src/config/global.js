@@ -289,6 +289,18 @@ export const creditos = {
       centro: 'Centro Industrial del Diseño y la Manufactura',
       regional: 'Regional Santander',
     },
+    {
+      nombre: 'Cladec Colombia',
+      cargo: '',
+      centro: '',
+      regional: '',
+    },
+    {
+      nombre: 'Clúster de Logística y Transporte',
+      cargo: '',
+      centro: 'Cámara de Comercio de Bogotá',
+      regional: '',
+    },
   ],
   desarrolloProducto: [
     {
